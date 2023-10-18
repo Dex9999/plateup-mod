@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eybAIbgsVP3vf6YjDSMH83CnbnMrjlyI6JWT0VlWwrevN9vplRrmz48VdBDZZsqhtJeDufYmjsY3jy2qVe6bgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razor\\Downloads\\PlateUpModdingTemplate\\ModName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razor\\.nuget\\packages\\yariazen.plateup.modbuildutilities\\1.10.21\\yariazen.plateup.modbuildutilities.1.10.21.nupkg.sha512"
+  ],
+  "logs": []
+}

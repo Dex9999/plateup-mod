@@ -1,0 +1,9 @@
+C:\Users\razor\Downloads\PlateUpModdingTemplate\bin\Debug\net472\ModName-Workshop.dll
+C:\Users\razor\Downloads\PlateUpModdingTemplate\bin\Debug\net472\ModName-Workshop.pdb
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName.csproj.AssemblyReference.cache
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName.AssemblyInfoInputs.cache
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName.AssemblyInfo.cs
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName.csproj.CoreCompileInputs.cache
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName-Workshop.dll
+C:\Users\razor\Downloads\PlateUpModdingTemplate\obj\Debug\net472\ModName-Workshop.pdb
